@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Base.AppTheme">
+        <!-- Default is false. If set it to true, content will draw behind status bar, we can set fitsSystemWindows to add top padding -->
+        <item name="android:windowTranslucentStatus">false</item>
+
+        <!-- Default is false -->
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+</resources>

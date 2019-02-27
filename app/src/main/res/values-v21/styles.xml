@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Base.AppTheme">
+        <!-- Default is false. If set it to true, status bar will be forced to be translucent and statusBarColor will not work -->
+        <item name="android:windowTranslucentStatus">false</item>
+
+        <item name="android:windowTranslucentNavigation">false</item>
+
+        <!-- Default is true, if set it to false, the background of status bar will be black -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <item name="android:statusBarColor">@color/colorAccent</item>
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    </style>
+
+</resources>

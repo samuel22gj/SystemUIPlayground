@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">System UI Playground</string>
+
+    <string name="set">SET</string>
+    <string name="reset">RESET</string>
+    <string name="system_ui_title">System UI</string>
+    <string name="window_manager_title">WindowManager</string>
+    <string name="fits_system_windows_text">Toolbar\'s fitsSystemWindows</string>
+    <string name="request_layout_text">Invoke requestLayout() on root view</string>
+    <string name="status_bar_color_text">Change status bar color</string>
+    <string name="navigation_bar_color_text">Change navigation bar color</string>
+
+    <string name="sdk_version">Android %1$s - API %2$d</string>
+</resources>
