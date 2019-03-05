@@ -8,15 +8,14 @@ A tiny app lets you manipulate system UI like a piece of cake 🎂
 
 ## Cheat Sheet
 
-API Level | Translucent status bar bg | Colorful status bar bg | Dark / Light mode status bar | Translucent nav bar bg | Colorful nav bar bg | Dark / Light mode nav bar
--- | -- | -- | -- | -- | -- | --
-Jelly Bean and below (~ API 18) | X | X | X | X | X | X
-KitKat (API 19) | O | X | X | O | X | X
-Lollipop (API 21 ~ API 22) | O | O | X | O | O | X
-Marshmallow and above (API 23 ~) | O | O | O | O | O | O
+This table shows the limitation when we try to customize **Status Bar** and **Navigation Bar** in different versions.
 
-*bg = background*
-*nav = navigation*
+API Level | Translucent background | Colorful background | Dark / Light mode
+-- | -- | -- | --
+18 and below | X | X | X
+19 ~ 20 | O | X | X
+21 ~ 22 | O | O | X
+23 and above | O | O | O
 
 ## License
 
