@@ -294,7 +294,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun initRequestLayoutButton() {
         request_layout.setOnClickListener {
-            linear_layout.requestLayout()
+            root_layout.requestLayout()
         }
     }
 
