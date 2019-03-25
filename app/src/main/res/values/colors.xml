@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Default Toolbar color -->
-    <color name="colorPrimary">#008577</color>
-    <!--<color name="colorPrimary">@android:color/white</color>-->
+    <!-- Color Tool - Material Design -->
+    <!-- https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=3F51B5&secondary.color=FFC200 -->
 
-    <!-- Default Status bar color -->
-    <color name="colorPrimaryDark">#00574B</color>
-    <!--<color name="colorPrimaryDark">@android:color/white</color>-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryVariant">#002984</color>
 
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorSecondary">#FFC200</color>
+    <color name="colorSecondaryVariant">#C79200</color>
 
 </resources>
