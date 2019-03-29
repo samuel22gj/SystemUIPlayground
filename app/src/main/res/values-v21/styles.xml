@@ -10,7 +10,7 @@
         <!-- Default is true, if set it to false, the background of status bar will be black -->
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
 
-        <item name="android:statusBarColor">@color/colorSecondary</item>
+        <item name="android:statusBarColor">@color/colorAccent</item>
         <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
     </style>
 
